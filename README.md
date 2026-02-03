@@ -163,7 +163,7 @@ Este projeto foi desenvolvido como parte dos estudos avançados na **Data Scienc
 
 ## 👤 Autor
 
-* **Jefferson Ferreira** - *Desenvolvimento e Documentação* - [Seu GitHub](https://www.google.com/search?q=https://github.com/seu-usuario)
+* **Jefferson Ferreira** - *Desenvolvimento e Documentação* - [Seu GitHub](https://github.com/francaferreira)
 * **Origem do Projeto:** Conteúdo desenvolvido durante o curso de "Matemática Para Data Science, Machine Learning e IA" da **Data Science Academy (DSA)**.
 
 ---
