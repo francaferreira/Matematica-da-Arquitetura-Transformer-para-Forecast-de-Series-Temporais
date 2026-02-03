@@ -158,9 +158,6 @@ Este projeto foi desenvolvido como parte dos estudos avançados na **Data Scienc
 
 ---
 
-Excelente observação. Para um projeto profissional, declarar a autoria e a licença é fundamental para proteger o seu código e dar os créditos devidos à fonte de ensino.
-
-Aqui está o bloco final para você adicionar ao seu **README.md**:
 
 ---
 
